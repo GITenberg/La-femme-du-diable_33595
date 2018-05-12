@@ -1,0 +1,43 @@
+_repo: La-femme-du-diable_33595
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsene-Arnaud
+    - Claretie, Arsène-Arnaud
+    - Claretie, Arsène-Armand
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+  contributor:
+    agent_name: Lafon, Gabriel
+    gutenberg_agent_id: '39359'
+    url: http://www.gutenberg.org/2009/agents/39359
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lafon-Labatut, Joseph
+    birthdate: 1809
+    deathdate: 1877
+    gutenberg_agent_id: '36487'
+    url: http://www.gutenberg.org/2009/agents/36487
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2010-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33595'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: La femme du diable
+url: http://www.gutenberg.org/ebooks/33595
